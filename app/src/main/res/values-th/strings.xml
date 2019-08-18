@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Days">วัน</string>
+    <string name="Hours">ชั่วโมง</string>
+    <string name="Mintues">นาที</string>
+    <string name="Seconds">วินาที</string>
+    <string name="countdown">นั บ ถ อ ย ห ลั ง วั น เ ลื อ ก ตั้ ง</string>
+    <string name="nextt">ถัดไป</string>
+</resources>
